@@ -1,0 +1,22 @@
+        table { 
+            border: 1px solid;
+            border-collapse: collapse; 
+            width: 80%; 
+        } 
+          
+        th, td { 
+            border: 1px solid;
+            text-align: left; 
+            padding: 8px; 
+        } 
+          
+        tr:nth-child(even){ 
+            border: 1px solid;
+            
+            background-color: Lightgreen; 
+        } 
+        input.text{
+            color: blue;
+            padding: 8px
+                
+        }
